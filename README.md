@@ -22,7 +22,7 @@ Impact: The final dashboard empowered the client to move beyond static spreadshe
 <h2>Excel Dashboard :</h2>
 
 KPI Summary: <br/>
-<img src="https://i.imgur.com/DDsu6cg.png" height="80%" width="80%" alt="AdventureWorks Executive Sales Dashboard"/>
+<img src="https://i.imgur.com/DDsu6cg.png" height="80%" width="80%" alt="KPI Summary"/>
 <br />
 <br />
 
