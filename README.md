@@ -1,4 +1,4 @@
-<h1>Business Valuation and Acquisition Analysis for a Video Club Company</h1>
+<h1>Global Sales Logistics KPI Dashboard</h1>
 
 <h2>Description</h2>
 This project focused on developing a critical Global Sales and Logistics KPI Dashboard using the advanced Business Intelligence features within Microsoft Excel (Power Query and Power Pivot). The objective was to provide the management team of a global electronics retailer with a dynamic tool to track core performance metrics.
